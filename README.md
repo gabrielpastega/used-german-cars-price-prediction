@@ -1,4 +1,4 @@
-
+<p align="center"><img src="https://github.com/gabrielpastega/used-german-cars-price-prediction/blob/main/img/german_cars.png" alt="" /></p>
 <h2><strong>Sobre o projeto</strong></h2>
 <p>O objetivo deste projeto &eacute; construir um modelo de previs&atilde;o de pre&ccedil;os de carros com base em diversas caracter&iacute;sticas dos ve&iacute;culos, como ano de fabrica&ccedil;&atilde;o, tipo de combust&iacute;vel, pot&ecirc;ncia do motor, quilometragem, entre outros e verificar como &eacute; afetado por outliers. O modelo ser&aacute; constru&iacute;do utilizando t&eacute;cnicas de regress&atilde;o e tratamento de outliers.</p>
 <h2><strong>Conjunto de Dados</strong></h2>
@@ -7,7 +7,14 @@
 <p>&nbsp;Durante a an&aacute;lise explorat&oacute;ria, foram plotados gr&aacute;ficos de histogramas e boxplots para cada vari&aacute;vel num&eacute;rica do conjunto de dados, a fim de identificar outliers e verificar a distribui&ccedil;&atilde;o dos dados. Tamb&eacute;m foram plotados gr&aacute;ficos de barras para as vari&aacute;veis categ&oacute;ricas, para observar a frequ&ecirc;ncia de cada categoria.</p>
 <p>Os dados categ&oacute;ricos demonstram um grande cardinalidade com 77 marcas &uacute;nicas e 841 modelos &uacute;nicos de ve&iacute;culos, j&aacute; a coluna c&acirc;mbio tem apenas 3 tipos de categorias e a tipos de oferta possui 5 op&ccedil;&otilde;es &uacute;nicas. A coluna de combust&iacute;vel possui 11 valores diferentes com predomin&acirc;ncia de Gasolina e Diesel,&nbsp;</p>
 <p>Com rela&ccedil;&atilde;o &agrave;s vari&aacute;veis num&eacute;ricas, foram encontrados alguns valores extremos que representam poss&iacute;veis outliers, como pre&ccedil;os de carros, quilometragens e pot&ecirc;ncia do motor muito acima da m&eacute;dia. Verificou-se a presen&ccedil;a de valores duplicados e para trabalhar apenas com observa&ccedil;&otilde;es &uacute;nicas optou-se por remov&ecirc;-los</p>
-<p>A an&aacute;lise explorat&oacute;ria tamb&eacute;m mostrou uma correla&ccedil;&atilde;o positiva entre o pre&ccedil;o dos carros e a pot&ecirc;ncia do motor, bem como uma correla&ccedil;&atilde;o negativa com pre&ccedil;o e a quilometragem.&nbsp;</p>
+<img src="https://github.com/gabrielpastega/used-german-cars-price-prediction/blob/main/img/numerical_boxplot.png" alt="" />
+<p>A an&aacute;lise explorat&oacute;ria tamb&eacute;m mostrou uma correla&ccedil;&atilde;o positiva entre o pre&ccedil;o dos carros (imagem abaixo a esquerda) e a pot&ecirc;ncia do motor, bem como uma correla&ccedil;&atilde;o negativa com pre&ccedil;o e a quilometragem (imagem abaixo a direita).&nbsp;</p>
+<table style="width: 150%;">
+  <tr>
+    <td><img src="https://github.com/gabrielpastega/used-german-cars-price-prediction/blob/main/img/reg_price_hp.png" style="width:150%;"></td>
+    <td><img src="https://github.com/gabrielpastega/used-german-cars-price-prediction/blob/main/img/reg_price_mileage.png" style="width:150%;"></td>
+  </tr>
+</table>
 <p>A maior parte pertencendo a marca Volkswagen e a marca Mercedes-Benz com a maior diversidade de modelos e a grande maioria do ve&iacute;culos possuem valor abaixo de 19.940 &euro; (Euros).</p>
 <p>Em resumo, a an&aacute;lise explorat&oacute;ria permitiu entender melhor as caracter&iacute;sticas do conjunto de dados e identificar poss&iacute;veis problemas a serem tratados antes da constru&ccedil;&atilde;o do modelo.</p>
 <h2><strong>Pr&eacute;-Processamento de Dados</strong></h2>
