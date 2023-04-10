@@ -1,3 +1,4 @@
+
 <h2><strong>Sobre o projeto</strong></h2>
 <p>O objetivo deste projeto &eacute; construir um modelo de previs&atilde;o de pre&ccedil;os de carros com base em diversas caracter&iacute;sticas dos ve&iacute;culos, como ano de fabrica&ccedil;&atilde;o, tipo de combust&iacute;vel, pot&ecirc;ncia do motor, quilometragem, entre outros e verificar como &eacute; afetado por outliers. O modelo ser&aacute; constru&iacute;do utilizando t&eacute;cnicas de regress&atilde;o e tratamento de outliers.</p>
 <h2><strong>Conjunto de Dados</strong></h2>
