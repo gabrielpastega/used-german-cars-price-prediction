@@ -165,6 +165,5 @@
 <ul>
 <li>Expandir o feature engineering</li>
 <li>Expandir o tratamento de outliers para as colunas de mileage e hp</li>
-<li>Explorar os dados considerados outliers com outras abordagens</li>
 <li>Testar outros par&acirc;metros nas etapas de modelagem e pr&eacute;-processamento</li>
 </ul>
