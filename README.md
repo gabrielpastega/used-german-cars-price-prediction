@@ -61,11 +61,11 @@
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Modelo com Outliers&quot;}">Modelo com Outliers</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:8110.20841722206}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">8.110,21</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:28503.611}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">28.503,61</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.018349803501250473}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">1,83%</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.018349803501250473}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">+1,83%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:30621.117}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">30.621,12</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.17778056848340315}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">17,78%</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.17778056848340315}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">+17,78%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:7700.662}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">7.700,66</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.7112582222222222}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">71,13%</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.7112582222222222}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">+71,13%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:12692.144}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">12.692,14</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:-0.24226005970149253}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">-24,23%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:161437.92}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">161.437,92</td>
@@ -75,11 +75,11 @@
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Modelo sem Outliers - IQR&quot;}">Modelo sem Outliers - IQR</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2507.62299415074}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">2.507,62</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:30418.494}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">30.418,49</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.08676291532690242}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">8,68%</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.08676291532690242}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">+8,68%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:18433.518}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">18.433,52</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:-0.2909912688949575}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">-29,10%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:5913.786}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">5.913,79</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.31417466666666666}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">31,42%</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.31417466666666666}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">+31,42%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:15362.106}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">15.362,11</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:-0.0828593432835821}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">-8,29%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:33837.957}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">33.837,96</td>
@@ -89,11 +89,11 @@
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Modelo sem Outliers - Devio-Padr&atilde;o&quot;}">Modelo sem Outliers - Devio-Padr&atilde;o</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3351.70059878397}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">3.351,70</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:29944.037}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">29.944,04</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.06981196856020008}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">6,98%</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.06981196856020008}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">+6,98%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:27381.281}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">27.381,28</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.05316669871918147}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">5,32%</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.05316669871918147}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">+5,32%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:6261.934}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">6.261,93</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.39154088888888894}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">39,15%</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.39154088888888894}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">+39,15%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:15342.159}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">15.342,16</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:-0.0840502089552239}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">-8,41%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:69370.31}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">69.370,31</td>
@@ -103,11 +103,11 @@
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Modelo sem Outliers - Z-Score&quot;}">Modelo sem Outliers - Z-Score</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3351.70059878397}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">3.351,70</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:29944.037}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">29.944,04</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.06981196856020008}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">6,98%</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.06981196856020008}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">+6,98%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:27381.281}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">27.381,28</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.05316669871918147}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">5,32%</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.05316669871918147}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">+5,32%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:6261.934}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">6.261,93</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.39154088888888894}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">39,15%</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.39154088888888894}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">+39,15%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:15342.159}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">15.342,16</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:-0.0840502089552239}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">-8,41%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:69370.31}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">69.370,31</td>
@@ -117,11 +117,11 @@
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Modelo sem Outliers - Isolation Forest&quot;}">Modelo sem Outliers - Isolation Forest</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2643.26250664305}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">2.643,26</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:31516.283}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">31.516,28</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.12598367274026437}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">12,60%</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.12598367274026437}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">+12,60%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:22157.656}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">22.157,66</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:-0.1477496826801031}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">-14,77%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:5409.309}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">5.409,31</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.2020686666666667}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">20,21%</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.2020686666666667}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">+20,21%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:16423.943}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">16.423,94</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:-0.019466089552238847}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">-1,95%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:41129.29}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">41.129,29</td>
@@ -131,11 +131,11 @@
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Modelo sem Outliers - DBSCAN&quot;}">Modelo sem Outliers - DBSCAN</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3873.41191545385}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">3.873,41</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:30282.51}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">30.282,51</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.08190460878885311}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">8,19%</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.08190460878885311}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">+8,19%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:32369.787}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">32.369,79</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.24503969383437826}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">24,50%</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.24503969383437826}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">+24,50%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:6568.65}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">6.568,65</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.45969999999999994}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">45,97%</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.45969999999999994}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">+45,97%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:13692.887}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">13.692,89</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:-0.18251420895522386}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">-18,25%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:109246.99}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">109.246,99</td>
@@ -149,11 +149,11 @@
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:23969.154}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">23.969,15</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:-0.07807400284626337}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">-7,81%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:7576.81}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">7.576,81</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.6837355555555557}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">68,37%</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.6837355555555557}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">+68,37%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:13106.637}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">13.106,64</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:-0.21751420895522383}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">-21,75%</td>
 <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:215392.39}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">215.392,39</td>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.08242821247298866}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">8,24%</td>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.08242821247298866}" data-sheets-numberformat="{&quot;1&quot;:3,&quot;2&quot;:&quot;0.00%&quot;,&quot;3&quot;:1}" data-sheets-formula="=(R[0]C[-1]-R3C[-1])/R3C[-1]">+8,24%</td>
 </tr>
 </tbody>
 </table>
