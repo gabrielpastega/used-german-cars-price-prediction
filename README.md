@@ -33,15 +33,15 @@
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Modelos de ML&quot;}">Modelos de ML</td>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Valor M&eacute;dio RMSE&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">Valor M&eacute;dio RMSE</td>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;BMW 135&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">BMW 135</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Varia&ccedil;&atilde;o do $ (+/-)&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">Varia&ccedil;&atilde;o do $ (+/-)</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Varia&ccedil;&atilde;o do Preço&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">Varia&ccedil;&atilde;o do Preço</td>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Subaru Impreza&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">Subaru Impreza</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Varia&ccedil;&atilde;o do $ (+/-)&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">Varia&ccedil;&atilde;o do $ (+/-)</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Varia&ccedil;&atilde;o do Preço&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">Varia&ccedil;&atilde;o do Preço</td>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Audi A3&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">Audi A3</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Varia&ccedil;&atilde;o do $ (+/-)&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">Varia&ccedil;&atilde;o do $ (+/-)</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Varia&ccedil;&atilde;o do Preço&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">Varia&ccedil;&atilde;o do Preço</td>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mercedes-Benz E 220&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">Mercedes-Benz E 220</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Varia&ccedil;&atilde;o do $ (+/-)&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">Varia&ccedil;&atilde;o do $ (+/-)</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Varia&ccedil;&atilde;o do Preço&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">Varia&ccedil;&atilde;o do Preço</td>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Jaguar F-Type&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">Jaguar F-Type</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Varia&ccedil;&atilde;o do $ (+/-)&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">Varia&ccedil;&atilde;o do $ (+/-)</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Varia&ccedil;&atilde;o do Preço&quot;}" data-sheets-numberformat="{&quot;1&quot;:2,&quot;2&quot;:&quot;#,##0.00&quot;,&quot;3&quot;:1}">Varia&ccedil;&atilde;o do Preço</td>
 </tr>
 <tr>
 <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Baseline&quot;}">Baseline</td>
